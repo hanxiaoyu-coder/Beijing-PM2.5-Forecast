@@ -41,11 +41,11 @@ based on ARIMA、LSTM and Transformer
 ### 关键图表
 
 **各模型预测结果对比 (测试集前段)**
-![模型对比图](images/model_comparison_plot.png)
+![模型对比图](main/model_comparison_plot.png)
 *上图直观展示了LSTM和Transformer模型能更精确地拟合PM2.5浓度的剧烈波动，而ARIMA的预测则相对平滑滞后。*
 
 **PM2.5浓度月度季节性**
-![月度箱线图](images/pm25_monthly_boxplot.png)
+![月度箱线图](main/pm25_monthly_boxplot.png)
 *PM2.5浓度在冬季（11月-1月）显著高于夏季，呈现明显的年度季节性规律。*
 
 
